@@ -33,7 +33,7 @@ Percentage of unpaid 5 star reviews : 50.782954 %
 
 There is no bias in the reviews for the paid versus the unpaid programs.  The unpaid reviews percentage was higher than the paid review percentage.
 
-## Then, provide one additional analysis that you could do with the dataset to support your statement.
+## Additional Analysis
 
 ![Overview 2](Images/Results2.png)
 
