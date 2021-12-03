@@ -28,8 +28,13 @@ Percentage of paid 5 star reviews : 33.549467 %
 Percentage of unpaid 5 star reviews : 50.782954 %
 
 ## Summary: 
-## In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. 
 
-![Unpaid 5 Star Reviews](Images/Results.png)
+![Overview](Images/Results.png)
+
+There is no bias in the reviews for the paid versus the unpaid programs.  The unpaid reviews percentage was higher than the paid review percentage.
 
 ## Then, provide one additional analysis that you could do with the dataset to support your statement.
+
+![Overview 2](Images/Results2.png)
+
+To further confirm the unbias in the paid versus the unpaid program, the above results show that the paid reviews for less than 5 stars are more that then unpaid results.
